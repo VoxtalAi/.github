@@ -1,2 +1,2 @@
-# Almond Technology LLC.
-Almond Technology LLC Github organizations
+# VoxtalAi Ltd.
+VoxtalAi Ltd Github organizations
